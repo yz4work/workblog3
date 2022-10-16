@@ -12,7 +12,7 @@ tags:
 show_hero: true
 menu:
   - title: Home
-    url: https:yz4work.github.io
+    url: /home
   - title: About
     url: /about
   - title: Contact
